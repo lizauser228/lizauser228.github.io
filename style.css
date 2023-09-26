@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Merriweather-Bold";
+    src: url("src/Merriweather-Bold.ttf");
+}
+
+.summer-content {
+    font-size: large;
+    font-family: "Merriweather-Bold";
+}
+
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: chocolate;
+}
+
